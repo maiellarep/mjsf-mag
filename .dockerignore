@@ -1,1 +1,9 @@
-node_modules/
+.dockerignore
+.git
+.idea
+Dockerfile
+.gitignore
+README.md
+env.*
+/node_modules/*
+/dist/*
